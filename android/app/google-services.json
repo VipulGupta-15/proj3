@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632351466310",
+    "firebase_url": "https://taskgdsc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "taskgdsc",
+    "storage_bucket": "taskgdsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632351466310:android:55f08099ea127fd6963b47",
+        "android_client_info": {
+          "package_name": "com.example.proj3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632351466310-291kk84dpfskb1i8f4mo71mud04sb33c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0F76E2XhfFSf7nlaOftln9TZn_ibUcAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632351466310-291kk84dpfskb1i8f4mo71mud04sb33c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
